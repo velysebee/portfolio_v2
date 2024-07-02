@@ -8,8 +8,8 @@ sections:
       text: Social Media Management
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      ![](https://www.slideshare.net/slideshow/embed_code/key/8mjA4Bt6kuZI3D?startSlide=1)
+    text: |
+      ![](https://speakerdeck.com/vansabee/slumbearparty-storyboard)
     actions:
       - type: Button
         label: Get started
