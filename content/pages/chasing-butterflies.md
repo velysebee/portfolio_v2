@@ -52,7 +52,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/chasingButterflies_Home_still.png
-        altText: Empathy logo
+        altText: Still 1
         elementId: ''
       - type: ImageBlock
         url: /images/wellster-logo.svg
