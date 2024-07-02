@@ -82,6 +82,10 @@ sections:
         url: /images/chasingButterflies_after_still Small.jpeg
         altText: Still 4
         elementId: ''
+        styles:
+          self:
+            padding:
+              - pl-1
       - type: ImageBlock
         altText: Image alt text placeholder
         elementId: ''
