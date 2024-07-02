@@ -135,7 +135,7 @@ sections:
             justifyContent: center
             textAlign: center
       - type: FeaturedItem
-        title: misc
+        title: ''
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
