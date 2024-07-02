@@ -47,6 +47,7 @@ sections:
           - pb-1
         margin:
           - mt-1
+          - mb-1
       subtitle:
         textAlign: left
   - posts:
