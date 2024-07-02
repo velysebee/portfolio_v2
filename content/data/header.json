@@ -76,7 +76,7 @@
         {
             "type": "Link",
             "label": "illustration",
-            "altText": "",
+            "altText": "Illustration page",
             "url": "/illustration",
             "showIcon": false,
             "icon": "arrowRight",
