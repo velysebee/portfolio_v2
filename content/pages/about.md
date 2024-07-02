@@ -21,7 +21,16 @@ sections:
       Film/Animation/Video. I developed my thesis project, "[Chasing
       Butterflies](/chasing-butterflies)" and worked as a production lead on my
       projects as well as a collaborative film, "[Curse
-      Reverse](/curse-reverse)". 
+      Reverse](/curse-reverse)".
+
+
+      Outside of animation, I also do illustration, knitting, crocheting, and
+      ballroom dance
+
+
+
+
+      You can reach me at vanessa.buice\@gmail.com
     actions:
       - type: Button
         label: artist resume
