@@ -13,6 +13,10 @@ sections:
     subtitle: A cat chases a butterfly through vibrant landscapes into the unknown.
     text: |
       Thesis film developed in 2023-2024.
+
+      Music by Jack English. 
+
+      Everything else by me.
     actions: []
     media:
       type: VideoBlock
