@@ -20,8 +20,8 @@ sections:
       Film/Animation/Video. In my junior thesis projects and thesis film,
       "[Chasing Butterflies](/chasing-butterflies)" I explored narrative
       storytelling without dialogue and blending techniques and aesthetics of
-      traditional media in my digital media. I worked as a production lead on my
-      projects as well as a collaborative film, "[Curse
+      traditional media in my digital animation. I worked as a production lead
+      on my projects as well as on a collaborative animated film, "[Curse
       Reverse](/curse-reverse)".
 
 
