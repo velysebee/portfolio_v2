@@ -19,9 +19,9 @@ sections:
       I graduated from the Rhode Island School of Design in 2024 with a BFA in
       Film/Animation/Video. In my junior thesis projects and thesis film,
       "[Chasing Butterflies](/chasing-butterflies)" I explored narrative
-      storytelling without dialogue and blending the techniques and aesthetics
-      of traditional media in my digital media. I worked as a production lead on
-      my projects as well as a collaborative film, "[Curse
+      storytelling without dialogue and blending techniques and aesthetics of
+      traditional media in my digital media. I worked as a production lead on my
+      projects as well as a collaborative film, "[Curse
       Reverse](/curse-reverse)".
 
 
