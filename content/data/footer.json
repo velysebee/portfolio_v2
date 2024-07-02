@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/littleIcon.png",
         "altText": "Logo light",
         "type": "ImageBlock",
         "styles": {
