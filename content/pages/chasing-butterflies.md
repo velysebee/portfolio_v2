@@ -43,7 +43,7 @@ sections:
         flexDirection: row
         justifyContent: center
         padding:
-          - pt-5
+          - pt-8
           - pb-1
       subtitle:
         textAlign: left
