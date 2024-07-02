@@ -13,17 +13,6 @@
     },
     "primaryLinks": [
         {
-            "type": "Link",
-            "label": "animation",
-            "altText": "Animation page",
-            "url": "/animation",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
-        },
-        {
             "label": "about",
             "altText": "About page",
             "url": "/About",
