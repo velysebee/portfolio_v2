@@ -16,7 +16,7 @@ sections:
       businesses.
     actions:
       - type: Button
-        label: Get started
+        label: artist resume
         altText: ''
         url: /art-resume
         showIcon: false
