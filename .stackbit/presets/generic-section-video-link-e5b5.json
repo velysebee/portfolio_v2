@@ -1,0 +1,75 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "video link",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "video link"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "Chasing Butterflies",
+                    "color": "text-dark",
+                    "styles": {
+                        "self": {
+                            "textAlign": "left"
+                        }
+                    }
+                },
+                "subtitle": "",
+                "text": "A cat chases a butterfly through vibrant landscapes into the unknown.\n\n\n\nSenior thesis film developed 2023 - 2024.\n",
+                "actions": [],
+                "media": {
+                    "$$type": "VideoBlock",
+                    "title": "Chasing Butterflies Trailer",
+                    "url": "https://youtu.be/1dqZyKguX4M",
+                    "autoplay": true,
+                    "loop": true,
+                    "muted": true,
+                    "controls": true,
+                    "aspectRatio": "16:9",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "padding": [
+                                "pt-2",
+                                "pb-2",
+                                "pl-2",
+                                "pr-2"
+                            ],
+                            "borderColor": "border-dark",
+                            "borderStyle": "solid",
+                            "borderWidth": 1,
+                            "borderRadius": "none"
+                        }
+                    }
+                },
+                "badge": null,
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "flexDirection": "row",
+                        "justifyContent": "center",
+                        "padding": [
+                            "pt-8",
+                            "pb-1"
+                        ]
+                    },
+                    "subtitle": {
+                        "textAlign": "left"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-video-link-e5b5.png"
+        }
+    ]
+}
