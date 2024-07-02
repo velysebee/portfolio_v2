@@ -1,6 +1,6 @@
 ---
 title: About
-slug: careers
+slug: about
 sections:
   - type: GenericSection
     title:
