@@ -70,6 +70,10 @@ sections:
               - pl-1
               - pr-1
       - type: ImageBlock
+        url: /images/chasingButterflies_after_still Small.jpeg
+        altText: Still 4
+        elementId: ''
+      - type: ImageBlock
         url: /images/chasingButterflies_Clouds_still Small.jpeg
         altText: Still 3
         elementId: ''
@@ -78,10 +82,6 @@ sections:
             padding:
               - pl-1
               - pr-1
-      - type: ImageBlock
-        url: /images/chasingButterflies_after_still Small.jpeg
-        altText: Still 4
-        elementId: ''
       - type: ImageBlock
         altText: Image alt text placeholder
         elementId: ''
