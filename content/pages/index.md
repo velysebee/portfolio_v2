@@ -44,7 +44,7 @@ sections:
         justifyContent: center
         padding:
           - pt-5
-          - pb-1
+          - pb-5
         margin:
           - mt-1
           - mb-1
