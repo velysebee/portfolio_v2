@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/compressed_animated_banner.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
