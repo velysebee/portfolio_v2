@@ -159,7 +159,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: misc 2
+        title: ''
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
