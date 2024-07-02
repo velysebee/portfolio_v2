@@ -69,7 +69,7 @@ sections:
         justifyContent: center
         margin:
           - mt-0
-          - mb-5
+          - mb-0
     type: FeaturedPostsSection
     hoverEffect: move-up
 seo:
