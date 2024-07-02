@@ -92,7 +92,7 @@ sections:
           self:
             padding:
               - pl-0
-              - pr-1
+              - pr-0
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
