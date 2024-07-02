@@ -24,8 +24,8 @@ sections:
       Reverse](/curse-reverse)".
 
 
-      Outside of animation, I also do illustration, knitting, crocheting, and
-      ballroom dance
+      Outside of animation, I also enjoy illustration, knitting & crocheting,
+      and ballroom dance.
 
 
       You can reach me at <vanessa.buice@gmail.com> !
