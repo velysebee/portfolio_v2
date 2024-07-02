@@ -15,6 +15,7 @@ sections:
           - pt-1
           - pb-1
           - pr-1
+          - pl-1
       subtitle:
         textAlign: left
     media:
