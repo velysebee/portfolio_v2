@@ -89,16 +89,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions:
-          - type: Link
-            label: Animation
-            altText: ''
-            url: /animation
-            showIcon: true
-            icon: chevronRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         colors: bg-light-fg-dark
         styles:
           self:
