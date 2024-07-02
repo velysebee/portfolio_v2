@@ -59,7 +59,7 @@ sections:
         altText: Still 2
         elementId: ''
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/chasingButterflies_Clouds_still.png
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
