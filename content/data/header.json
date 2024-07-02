@@ -40,7 +40,7 @@
             "url": "/About",
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "secondary",
+            "style": "primary",
             "type": "Link"
         }
     ],
