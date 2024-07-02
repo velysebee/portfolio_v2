@@ -27,7 +27,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/VanessaBuice_headshot.jpg
       altText: Dope design preview
     badge:
       type: Badge
