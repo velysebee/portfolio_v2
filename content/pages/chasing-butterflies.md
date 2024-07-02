@@ -60,7 +60,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/chasingButterflies_Clouds_still.png
-        altText: Vise logo
+        altText: Still 3
         elementId: ''
       - type: ImageBlock
         url: /images/telus-logo.svg
