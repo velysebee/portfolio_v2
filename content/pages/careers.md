@@ -28,7 +28,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/VanessaBuice_headshot.jpg
-      altText: Dope design preview
+      altText: Headshot of Vanessa Buice
     badge:
       type: Badge
       label: This is a badge
