@@ -103,7 +103,7 @@ sections:
             textAlign: center
             justifyContent: center
       - type: FeaturedItem
-        title: Feature Item Two
+        title: ''
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
