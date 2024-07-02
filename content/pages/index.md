@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Demo Reel
+      text: vanessa buice
       color: text-primary
       styles:
         self:
