@@ -76,7 +76,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: '### [animation][/animation]'
+        title: ''
         tagline: ''
         subtitle: ''
         text: |+
