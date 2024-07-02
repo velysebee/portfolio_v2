@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: demo reel >>>
+    subtitle: ''
     text: ''
     actions: []
     media:
