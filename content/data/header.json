@@ -35,7 +35,7 @@
         {
             "type": "Link",
             "label": "storyboards",
-            "altText": "",
+            "altText": "Storyboards page",
             "url": "/storyboards",
             "showIcon": false,
             "icon": "arrowRight",
