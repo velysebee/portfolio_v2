@@ -167,6 +167,8 @@ sections:
           - pb-16
           - pr-8
         justifyContent: center
+        margin:
+          - mb-5
       subtitle:
         textAlign: center
 seo:
