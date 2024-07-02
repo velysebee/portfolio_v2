@@ -34,7 +34,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "storyboards",
             "altText": "",
             "url": "/storyboards",
             "showIcon": false,
