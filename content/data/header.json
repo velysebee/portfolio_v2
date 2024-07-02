@@ -78,7 +78,7 @@
         {
             "label": "about",
             "altText": "About page",
-            "url": "/About",
+            "url": "/about",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
