@@ -79,7 +79,7 @@ sections:
         padding:
           - pt-5
           - pl-16
-          - pb-16
+          - pb-5
           - pr-16
         justifyContent: center
       subtitle:
