@@ -35,7 +35,7 @@
         {
             "type": "Link",
             "label": "animation",
-            "altText": "",
+            "altText": "Animation page",
             "url": "/animation",
             "showIcon": false,
             "icon": "arrowRight",
