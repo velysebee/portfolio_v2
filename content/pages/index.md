@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: ''
+    subtitle: 'story, animation, production'
     text: |
       ![](/images/selfDoodle_transparent3.png)
     actions: []
