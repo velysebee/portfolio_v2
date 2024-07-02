@@ -35,15 +35,6 @@
             "elementId": ""
         },
         {
-            "label": "about",
-            "altText": "About page",
-            "url": "/About",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Link"
-        },
-        {
             "type": "SubNav",
             "label": "Projects",
             "altText": "Projects",
@@ -72,6 +63,15 @@
                 }
             ],
             "labelStyle": "primary"
+        },
+        {
+            "label": "about",
+            "altText": "About page",
+            "url": "/About",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "type": "Link"
         }
     ],
     "secondaryLinks": [],
