@@ -1,16 +1,4 @@
 {
-    "logo": {
-        "url": "/images/littleIcon Small.jpeg",
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
             "type": "Link",
