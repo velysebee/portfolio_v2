@@ -18,7 +18,7 @@ sections:
       altText: Headshot of Vanessa Buice
     badge:
       type: Badge
-      label: This is a badge
+      label: Hello! I'm
       color: text-primary
     colors: bg-light-fg-dark
     styles:
