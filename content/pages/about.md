@@ -17,7 +17,7 @@ sections:
     actions:
       - type: Button
         label: artist resume
-        altText: ''
+        altText: artist resume
         url: /art-resume
         showIcon: false
         icon: arrowRight
