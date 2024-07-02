@@ -52,12 +52,12 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/chasingButterflies_Home_still Small.jpeg
-        altText: Still 1
-        elementId: ''
-      - type: ImageBlock
         url: /images/ChasingButterflies_Nest_still Small.jpeg
         altText: Still 2
+        elementId: ''
+      - type: ImageBlock
+        url: /images/chasingButterflies_Home_still Small.jpeg
+        altText: Still 1
         elementId: ''
       - type: ImageBlock
         url: /images/chasingButterflies_Clouds_still Small.jpeg
