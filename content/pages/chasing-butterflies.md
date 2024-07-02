@@ -81,7 +81,7 @@ sections:
           - pl-16
           - pb-5
           - pr-16
-        justifyContent: flex-start
+        justifyContent: center
       subtitle:
         textAlign: center
 slug: chasing-butterflies
