@@ -63,6 +63,13 @@ sections:
         url: /images/chasingButterflies_after_still Small.jpeg
         altText: Still 4
         elementId: ''
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
