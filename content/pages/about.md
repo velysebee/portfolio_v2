@@ -11,9 +11,8 @@ sections:
         self:
           fontWeight: 400
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |
+      insert about and bio here
     actions:
       - type: Button
         label: artist resume
