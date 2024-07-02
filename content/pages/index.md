@@ -108,7 +108,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |+
-          ### tbd
+          ### [illustration](/illustration)
 
         image:
           type: ImageBlock
