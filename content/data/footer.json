@@ -37,7 +37,7 @@
     "styles": {
         "self": {
             "padding": [
-                "pt-8",
+                "pt-0",
                 "pb-8"
             ],
             "margin": [
