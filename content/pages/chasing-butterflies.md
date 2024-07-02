@@ -97,7 +97,7 @@ sections:
       subtitle:
         textAlign: center
 slug: chasing-butterflies
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: Landing Page
