@@ -18,9 +18,9 @@ sections:
 
 
       I graduated from the Rhode Island School of Design in 2024 with a BFA in
-      Film/Animation/Video. I developed my thesis project, "[Chasing
-      Butterflies](/chasing-butterflies)" and worked as a production lead on my
-      projects as well as a collaborative film, "[Curse
+      Film/Animation/Video. I developed my thesis project about my cat,
+      "[Chasing Butterflies](/chasing-butterflies)" and worked as a production
+      lead on my projects as well as a collaborative film, "[Curse
       Reverse](/curse-reverse)".
 
 
