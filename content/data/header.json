@@ -14,9 +14,9 @@
     "primaryLinks": [
         {
             "type": "Link",
-            "label": "storyboards",
-            "altText": "Storyboards page",
-            "url": "/storyboards",
+            "label": "animation",
+            "altText": "Animation page",
+            "url": "/animation",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -25,9 +25,9 @@
         },
         {
             "type": "Link",
-            "label": "animation",
-            "altText": "Animation page",
-            "url": "/animation",
+            "label": "storyboards",
+            "altText": "Storyboards page",
+            "url": "/storyboards",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
