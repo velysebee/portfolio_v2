@@ -59,7 +59,7 @@ sections:
         altText: Still 2
         elementId: ''
       - type: ImageBlock
-        url: /images/chasingButterflies_Clouds_still.png
+        url: /images/chasingButterflies_Clouds_still Small.jpeg
         altText: Still 3
         elementId: ''
       - type: ImageBlock
