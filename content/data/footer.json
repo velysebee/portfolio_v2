@@ -7,16 +7,7 @@
     "text": "",
     "primaryLinks": {
         "title": "Product",
-        "links": [
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
+        "links": [],
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
