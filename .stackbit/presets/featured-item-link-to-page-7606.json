@@ -1,0 +1,55 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Link to page",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "link to page"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "",
+                "tagline": "",
+                "subtitle": "",
+                "text": "### [animation](/animation)\n\n",
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/abstract-feature1.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Placeholder image",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "borderRadius": "x-large"
+                        }
+                    }
+                },
+                "actions": [],
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-5",
+                            "pl-8",
+                            "pb-5",
+                            "pr-8"
+                        ],
+                        "borderRadius": "x-large",
+                        "flexDirection": "col",
+                        "textAlign": "center",
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-link-to-page-7606.png"
+        }
+    ]
+}
