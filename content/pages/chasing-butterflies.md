@@ -61,12 +61,12 @@ sections:
               - pr-1
               - pl-1
       - type: ImageBlock
-        url: /images/chasingButterflies_Clouds_still Small.jpeg
-        altText: Still 3
-        elementId: ''
-      - type: ImageBlock
         url: /images/ChasingButterflies_Nest_still Small.jpeg
         altText: Still 2
+        elementId: ''
+      - type: ImageBlock
+        url: /images/chasingButterflies_Clouds_still Small.jpeg
+        altText: Still 3
         elementId: ''
       - type: ImageBlock
         url: /images/chasingButterflies_after_still Small.jpeg
