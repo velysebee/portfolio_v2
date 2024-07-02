@@ -34,7 +34,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "animation",
             "altText": "",
             "url": "/animation",
             "showIcon": false,
