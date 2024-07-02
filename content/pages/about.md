@@ -14,7 +14,16 @@ sections:
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /art-resume
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/VanessaBuice_headshotv2.png
