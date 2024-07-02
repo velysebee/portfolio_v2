@@ -36,7 +36,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Projects",
+            "label": "projects",
             "altText": "Projects",
             "links": [
                 {
