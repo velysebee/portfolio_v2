@@ -53,7 +53,7 @@ sections:
       - type: ImageBlock
         url: /images/chasingButterflies_Home_still.png
         altText: Still 1
-        elementId: '?nf_resize=fit&w=300'
+        elementId: ''
       - type: ImageBlock
         url: /images/wellster-logo.svg
         altText: Wellster logo
