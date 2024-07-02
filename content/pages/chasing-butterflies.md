@@ -107,7 +107,7 @@ sections:
           - pt-5
           - pl-1
           - pb-5
-          - pr-5
+          - pr-1
         justifyContent: center
       subtitle:
         textAlign: center
