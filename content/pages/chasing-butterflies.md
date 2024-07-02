@@ -63,7 +63,7 @@ sections:
         altText: Still 3
         elementId: ''
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/chasingButterflies_after_still.png
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
