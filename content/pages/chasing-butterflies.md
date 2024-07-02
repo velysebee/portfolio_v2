@@ -14,9 +14,7 @@ sections:
     text: |
       Thesis film developed in 2023-2024.
 
-      Music by Jack English. 
-
-      Everything else by me.
+      Music by Jack English, everything else by me.
     actions: []
     media:
       type: VideoBlock
