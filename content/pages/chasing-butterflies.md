@@ -55,7 +55,7 @@ sections:
         altText: Still 1
         elementId: ''
       - type: ImageBlock
-        url: /images/wellster-logo.svg
+        url: /images/ChasingButterflies_Nest_still.png
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
