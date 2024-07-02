@@ -79,6 +79,12 @@ sections:
               - pl-0
               - pr-1
       - type: ImageBlock
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
         url: /images/chasingButterflies_after_still Small.jpeg
         altText: Still 4
         elementId: ''
@@ -87,12 +93,6 @@ sections:
             padding:
               - pl-0
               - pr-1
-      - type: ImageBlock
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
