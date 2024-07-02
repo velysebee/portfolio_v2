@@ -17,7 +17,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/VanessaBuice_headshot.jpg
+      url: /images/VanessaBuice_headshot.png
       altText: Headshot of Vanessa Buice
     badge:
       type: Badge
