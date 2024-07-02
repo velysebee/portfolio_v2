@@ -35,6 +35,17 @@
             "elementId": ""
         },
         {
+            "type": "Link",
+            "label": "illustration",
+            "altText": "Illustration page",
+            "url": "/illustration",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "type": "SubNav",
             "label": "projects",
             "altText": "Projects",
@@ -63,17 +74,6 @@
                 }
             ],
             "labelStyle": "primary"
-        },
-        {
-            "type": "Link",
-            "label": "illustration",
-            "altText": "Illustration page",
-            "url": "/illustration",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         },
         {
             "label": "about",
