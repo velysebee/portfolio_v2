@@ -28,8 +28,7 @@ sections:
       ballroom dance
 
 
-      You can reach me at [vanessa.buice@gmail.com
-      !](mailto:vanessa.buice@gmail.com)
+      You can reach me at <vanessa.buice@gmail.com> !
     actions:
       - type: Button
         label: artist resume
