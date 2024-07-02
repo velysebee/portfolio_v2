@@ -143,7 +143,7 @@ sections:
           - pr-8
         justifyContent: center
         margin:
-          - mb-5
+          - mb-0
       subtitle:
         textAlign: center
 seo:
