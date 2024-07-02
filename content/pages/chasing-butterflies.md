@@ -55,7 +55,7 @@ sections:
         altText: Still 1
         elementId: ''
       - type: ImageBlock
-        url: /images/ChasingButterflies_Nest_still.png
+        url: /images/ChasingButterflies_Nest_still Small.jpeg
         altText: Still 2
         elementId: ''
       - type: ImageBlock
