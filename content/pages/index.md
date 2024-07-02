@@ -11,7 +11,10 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: ''
+    text: |
+      ...
+
+      ![](/images/selfDoodle.gif)
     actions: []
     media:
       type: VideoBlock
