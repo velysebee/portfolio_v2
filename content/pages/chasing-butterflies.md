@@ -15,7 +15,7 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: Chasing Butterflies Trailer
       url: 'https://youtu.be/1dqZyKguX4M'
       autoplay: true
       loop: true
