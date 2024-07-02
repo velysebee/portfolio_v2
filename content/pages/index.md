@@ -14,7 +14,7 @@ sections:
     text: |
       ...
 
-      ![](/images/selfDoodle.gif)
+      ![](/images/selfDoodle_transparent.gif)
     actions: []
     media:
       type: VideoBlock
