@@ -64,6 +64,10 @@ sections:
         url: /images/ChasingButterflies_Nest_still Small.jpeg
         altText: Still 2
         elementId: ''
+        styles:
+          self:
+            padding:
+              - pl-1
       - type: ImageBlock
         url: /images/chasingButterflies_Clouds_still Small.jpeg
         altText: Still 3
