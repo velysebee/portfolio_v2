@@ -198,7 +198,7 @@ sections:
           - pl-8
           - pb-16
           - pr-8
-        justifyContent: center
+        justifyContent: flex-end
         margin:
           - mb-5
       subtitle:
