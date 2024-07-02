@@ -77,6 +77,7 @@ sections:
           self:
             padding:
               - pl-1
+              - pr-1
       - type: ImageBlock
         url: /images/chasingButterflies_after_still Small.jpeg
         altText: Still 4
