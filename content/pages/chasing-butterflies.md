@@ -48,7 +48,7 @@ sections:
       subtitle:
         textAlign: left
   - type: ImageGallerySection
-    subtitle: Production Tracking
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
