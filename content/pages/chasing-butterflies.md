@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Thesis - Chasing Butterflies
+title: Chasing Butterflies thesis project
 sections: []
 slug: chasing-butterflies
 isDraft: false
