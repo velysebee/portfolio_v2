@@ -105,7 +105,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: ''
-        subtitle: Th
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
