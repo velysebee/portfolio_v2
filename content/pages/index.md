@@ -45,6 +45,8 @@ sections:
         padding:
           - pt-1
           - pb-1
+        margin:
+          - mt-1
       subtitle:
         textAlign: left
   - posts:
