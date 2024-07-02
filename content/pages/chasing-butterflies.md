@@ -11,8 +11,7 @@ sections:
         self:
           textAlign: left
     subtitle: A cat chases a butterfly through vibrant landscapes into the unknown.
-    text: |
-      **
+    text: ''
     actions: []
     media:
       type: VideoBlock
