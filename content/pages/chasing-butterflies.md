@@ -51,7 +51,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/chasingButterflies_Home_still.png
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
