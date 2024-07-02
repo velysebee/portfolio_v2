@@ -100,7 +100,7 @@ sections:
             label: Animation
             altText: ''
             url: /animation
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
