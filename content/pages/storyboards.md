@@ -8,9 +8,19 @@ sections:
       text: Social Media Management
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      ```
+
+      <iframe
+      src="https://www.slideshare.net/slideshow/embed_code/key/8mjA4Bt6kuZI3D?startSlide=1"
+      width="1008" height="567" frameborder="0" scrolling="no" style="border:1px
+      solid #CCC;" allowfullscreen sandbox="allow-same-origin allow-scripts
+      allow-pointer-lock allow-forms"></iframe>
+
+      ```
+
+
+
     actions:
       - type: Button
         label: Get started
