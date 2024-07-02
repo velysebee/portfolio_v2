@@ -97,7 +97,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Link
-            label: See Tutorials
+            label: Animation
             altText: ''
             url: /animation
             showIcon: false
