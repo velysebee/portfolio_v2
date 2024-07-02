@@ -85,7 +85,7 @@ sections:
         styles:
           self:
             padding:
-              - pl-1
+              - pl-0
               - pr-1
       - type: ImageBlock
         altText: Image alt text placeholder
