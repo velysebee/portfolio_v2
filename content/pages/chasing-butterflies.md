@@ -11,11 +11,8 @@ sections:
         self:
           textAlign: left
     subtitle: A cat chases a butterfly through vibrant landscapes into the unknown.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      Thesis film developed in 2023-2024.
     actions: []
     media:
       type: VideoBlock
