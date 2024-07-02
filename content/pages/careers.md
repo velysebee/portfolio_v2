@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 400
-    subtitle: Be in good company
+    subtitle: I'm Vanessa
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
