@@ -33,5 +33,12 @@
     "copyrightText": "vanessa.buice\\@gmail.com\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer",
-    "title": ""
+    "title": "",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-8"
+            ]
+        }
+    }
 }
