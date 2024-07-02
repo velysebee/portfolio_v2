@@ -22,15 +22,6 @@
             "type": "Link"
         },
         {
-            "label": "about",
-            "altText": "About page",
-            "url": "/About",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Dropdown",
             "altText": "Dropdown",
             "links": [
@@ -72,6 +63,15 @@
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
+        },
+        {
+            "label": "about",
+            "altText": "About page",
+            "url": "/About",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "secondaryLinks": [],
