@@ -70,8 +70,8 @@ sections:
               - pl-1
               - pr-1
       - type: ImageBlock
-        url: /images/chasingButterflies_after_still Small.jpeg
-        altText: Still 4
+        url: /images/chasingButterflies_Clouds_still Small.jpeg
+        altText: Still 3
         elementId: ''
         styles:
           self:
@@ -79,8 +79,8 @@ sections:
               - pl-1
               - pr-1
       - type: ImageBlock
-        url: /images/chasingButterflies_Clouds_still Small.jpeg
-        altText: Still 3
+        url: /images/chasingButterflies_after_still Small.jpeg
+        altText: Still 4
         elementId: ''
         styles:
           self:
