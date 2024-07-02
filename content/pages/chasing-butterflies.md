@@ -51,7 +51,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/chasingButterflies_Home_still.png
+        url: /images/chasingButterflies_Home_still Small.jpeg
         altText: Still 1
         elementId: ''
       - type: ImageBlock
