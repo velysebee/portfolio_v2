@@ -12,12 +12,6 @@ sections:
       A service that provides advice and guidance to startups and small
       businesses.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
