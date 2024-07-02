@@ -26,7 +26,7 @@ sections:
         elementId: ''
       - type: Button
         label: production resume
-        altText: ''
+        altText: production resume
         url: /production-resume
         showIcon: false
         icon: arrowRight
