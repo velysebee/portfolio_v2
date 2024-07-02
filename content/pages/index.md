@@ -43,7 +43,7 @@ sections:
         flexDirection: row
         justifyContent: center
         padding:
-          - pt-1
+          - pt-5
           - pb-1
         margin:
           - mt-1
