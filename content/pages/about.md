@@ -11,8 +11,14 @@ sections:
         self:
           fontWeight: 400
     subtitle: ''
-    text: |
-      insert about and bio here
+    text: >
+      I'm Vanessa! I'm an animator, storyboarder and production assistant etc. I
+      enjoy blending techniques and aesthetics of traditional media into my
+      digital practice. 
+
+
+      I graduated from the Rhode Island School of Design in 2024 with a BFA in
+      Film/Animation/Video. 
     actions:
       - type: Button
         label: artist resume
