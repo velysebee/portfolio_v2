@@ -59,7 +59,7 @@ sections:
           self:
             padding:
               - pr-1
-              - pl-1
+              - pl-0
       - type: ImageBlock
         url: /images/ChasingButterflies_Nest_still Small.jpeg
         altText: Still 2
