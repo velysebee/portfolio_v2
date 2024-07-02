@@ -29,6 +29,13 @@ sections:
       type: ImageBlock
       url: /images/hero2.svg
       altText: Fun feature preview
+      elementId: >-
+        <iframe
+        src="https://www.slideshare.net/slideshow/embed_code/key/8mjA4Bt6kuZI3D?startSlide=1"
+        width="1008" height="567" frameborder="0" scrolling="no"
+        style="border:1px solid #CCC;" allowfullscreen
+        sandbox="allow-same-origin allow-scripts allow-pointer-lock
+        allow-forms"></iframe>
     badge:
       type: Badge
       label: This is a badge
