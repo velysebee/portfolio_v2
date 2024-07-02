@@ -101,7 +101,7 @@ sections:
             altText: ''
             url: /animation
             showIcon: true
-            icon: arrowRight
+            icon: chevronDown
             iconPosition: right
             style: primary
             elementId: ''
