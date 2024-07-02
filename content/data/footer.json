@@ -2,7 +2,12 @@
     "logo": {
         "url": "/images/littleIcon.png",
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "styles": {
+            "self": {
+                "borderWidth": 4
+            }
+        }
     },
     "text": "<vanessa.buice@gmail.com>\n",
     "primaryLinks": {
