@@ -14,6 +14,7 @@ sections:
         padding:
           - pt-1
           - pb-1
+          - pr-1
       subtitle:
         textAlign: left
     media:
