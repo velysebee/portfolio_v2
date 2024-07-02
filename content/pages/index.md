@@ -106,8 +106,9 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: |+
+          ### [storyboards](/storyboards)
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
