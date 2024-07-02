@@ -11,7 +11,12 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: ''
+    text: |
+      A cat chases a butterfly through vibrant landscapes into the unknown.
+
+
+
+      Senior thesis film developed 2023 - 2024.
     actions: []
     media:
       type: VideoBlock
