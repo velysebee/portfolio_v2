@@ -80,7 +80,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |+
-          # [animation](/animation)
+          ## [animation](/animation)
 
         image:
           type: ImageBlock
