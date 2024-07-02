@@ -73,7 +73,7 @@ sections:
     type: FeaturedPostsSection
     hoverEffect: move-up
   - type: FeaturedItemsSection
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: ''
