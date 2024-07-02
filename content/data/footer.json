@@ -38,6 +38,9 @@
         "self": {
             "padding": [
                 "pt-8"
+            ],
+            "margin": [
+                "mt-8"
             ]
         }
     }
