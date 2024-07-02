@@ -67,6 +67,8 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+        margin:
+          - mt-5
     type: FeaturedPostsSection
     hoverEffect: move-up
 seo:
