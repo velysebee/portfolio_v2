@@ -23,6 +23,9 @@ sections:
       type: Badge
       label: Hello! I'm
       color: text-primary
+      styles:
+        self:
+          textAlign: center
     colors: bg-light-fg-dark
     styles:
       self:
