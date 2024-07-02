@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: A cat chases a butterfly through vibrant landscapes into the unknown.
+    subtitle: ''
     text: ''
     actions: []
     media:
