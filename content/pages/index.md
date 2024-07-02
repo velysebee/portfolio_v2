@@ -12,8 +12,6 @@ sections:
           textAlign: left
     subtitle: ''
     text: |
-      ...
-
       ![](/images/selfDoodle_transparent3.png)
     actions: []
     media:
