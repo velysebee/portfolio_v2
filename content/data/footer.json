@@ -5,7 +5,7 @@
         "type": "ImageBlock",
         "styles": {
             "self": {
-                "borderWidth": 4
+                "borderWidth": 0
             }
         }
     },
