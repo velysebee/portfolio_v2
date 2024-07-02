@@ -72,7 +72,7 @@ sections:
     styles:
       self:
         margin:
-          - mt-0
+          - mt-1
           - ml-0
           - mb-0
           - mr-0
