@@ -37,7 +37,7 @@ sections:
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 1
-          borderRadius: large
+          borderRadius: none
     colors: bg-light-fg-dark
     styles:
       self:
