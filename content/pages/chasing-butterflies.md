@@ -66,10 +66,6 @@ sections:
         url: /images/chasingButterflies_after_still.png
         altText: Still 4
         elementId: ''
-      - type: ImageBlock
-        url: /images/contenful-logo.svg
-        altText: Contentful logo
-        elementId: ''
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
