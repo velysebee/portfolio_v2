@@ -52,15 +52,6 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/chasingButterflies_Home_still Small.jpeg
-        altText: Still 1
-        elementId: ''
-        styles:
-          self:
-            padding:
-              - pr-1
-              - pl-1
-      - type: ImageBlock
         url: /images/ChasingButterflies_Nest_still Small.jpeg
         altText: Still 2
         elementId: ''
@@ -69,6 +60,15 @@ sections:
             padding:
               - pl-1
               - pr-1
+      - type: ImageBlock
+        url: /images/chasingButterflies_Home_still Small.jpeg
+        altText: Still 1
+        elementId: ''
+        styles:
+          self:
+            padding:
+              - pr-1
+              - pl-1
       - type: ImageBlock
         url: /images/chasingButterflies_Clouds_still Small.jpeg
         altText: Still 3
