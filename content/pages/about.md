@@ -12,16 +12,16 @@ sections:
           fontWeight: 400
     subtitle: ''
     text: >
-      I'm Vanessa! I'm an animator, storyboarder and production assistant etc. I
-      enjoy blending techniques and aesthetics of traditional media into my
-      digital practice.
+      I'm Vanessa! I'm an animator, storyboarder, and producer based in Houston,
+      Texas (and looking onward to Los Angeles!).
 
 
       I graduated from the Rhode Island School of Design in 2024 with a BFA in
-      Film/Animation/Video. I developed my thesis project about my cat,
-      "[Chasing Butterflies](/chasing-butterflies)" and worked as a production
-      lead on my projects as well as a collaborative film, "[Curse
-      Reverse](/curse-reverse)".
+      Film/Animation/Video. I developed my thesis project, "[Chasing
+      Butterflies](/chasing-butterflies)" about my cat and enjoy blending
+      techniques and aesthetics of traditional media into my digital practice. I
+      worked as a production lead on my projects as well as a collaborative
+      film, "[Curse Reverse](/curse-reverse)".
 
 
       Outside of animation, I also enjoy illustration, knitting & crocheting,
