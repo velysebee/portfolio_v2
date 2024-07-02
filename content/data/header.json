@@ -13,15 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "about",
-            "altText": "About page",
-            "url": "/About",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "storyboards",
             "altText": "Storyboards page",
@@ -42,6 +33,15 @@
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
+        },
+        {
+            "label": "about",
+            "altText": "About page",
+            "url": "/About",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "secondaryLinks": [],
