@@ -67,7 +67,7 @@ sections:
         styles:
           self:
             padding:
-              - pl-1
+              - pl-0
               - pr-1
       - type: ImageBlock
         url: /images/chasingButterflies_Clouds_still Small.jpeg
