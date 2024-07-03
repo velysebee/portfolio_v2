@@ -1,94 +1,91 @@
 {
-    "logo": {
-        "url": "/images/logo-dark.svg",
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": ["mr-3"]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
-        }
-    ],
-    "secondaryLinks": [
-        {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
+            "type": "Link",
+            "label": "animation",
+            "altText": "Animation page",
+            "url": "/animation",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "storyboards",
+            "altText": "Storyboards page",
+            "url": "/storyboards",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "illustration",
+            "altText": "Illustration page",
+            "url": "/illustration",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "SubNav",
+            "label": "projects",
+            "altText": "Projects",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Chasing Butterflies thesis project",
+                    "altText": "",
+                    "url": "/chasing-butterflies",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Curse Reverse",
+                    "altText": "",
+                    "url": "/curse-reverse",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "primary"
+        },
+        {
+            "label": "about",
+            "altText": "About page",
+            "url": "/about",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "type": "Link"
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
+    "secondaryLinks": [],
+    "variant": "logo-left-primary-nav-right",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "logo": {
+        "type": "ImageBlock",
+        "url": "/images/logo-dark.svg",
+        "altText": "Image alt text placeholder",
+        "elementId": "",
+        "styles": {
+            "self": {
+                "borderRadius": "medium"
+            }
+        }
+    }
 }
