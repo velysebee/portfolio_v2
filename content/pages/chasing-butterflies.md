@@ -79,7 +79,6 @@ sections:
               - pl-0
               - pr-0
       - type: ImageBlock
-        url: /images/hero2.svg
         altText: Image alt text placeholder
         elementId: test-image-please
         styles:
