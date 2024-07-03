@@ -81,7 +81,7 @@ sections:
       - type: ImageBlock
         url: /images/hero2.svg
         altText: Image alt text placeholder
-        elementId: ''
+        elementId: test-image-please
         styles:
           self:
             borderRadius: medium
