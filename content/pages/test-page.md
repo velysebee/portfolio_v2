@@ -11,12 +11,11 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |
-      A cat chases a butterfly through vibrant landscapes into the unknown.
+    text: >+
+      test \<div class="powr-slideshow"
+      id="d810fa62\_1720065840">\</div>\<script
+      src="https\://www\.powr.io/powr.js?platform=netlify">\</script>
 
-
-
-      Senior thesis film developed 2023 - 2024.
     actions: []
     colors: bg-light-fg-dark
     styles:
