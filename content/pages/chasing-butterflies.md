@@ -133,9 +133,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: >-
-        <div class="powr-slideshow" id="d810fa62_1720065840"></div><script
-        src="https://www.powr.io/powr.js?platform=netlify"></script>
+      url: ''
       autoplay: true
       loop: true
       muted: true
