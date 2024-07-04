@@ -27,6 +27,7 @@ sections:
           - pb-1
       subtitle:
         textAlign: left
+    <div class="powr-slideshow" id="d810fa62_1720065840"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 slug: test-page
 isDraft: false
 seo:
