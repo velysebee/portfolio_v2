@@ -79,6 +79,13 @@ sections:
               - pl-0
               - pr-0
       - type: ImageBlock
+        url: /images/chasingButterflies_after_still.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
         altText: Image alt text placeholder
         elementId: test-image-please
         styles:
