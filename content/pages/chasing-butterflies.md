@@ -129,18 +129,7 @@ sections:
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions:
-      - type: Link
-        label: Play
-        altText: Play
-        url: >-
-          /<div class="powr-slideshow" id="d810fa62_1720065840"></div><script
-          src="https://www.powr.io/powr.js?platform=netlify"></script>
-        showIcon: true
-        icon: play
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
     media:
       type: VideoBlock
       title: Title of the video
