@@ -79,7 +79,7 @@ sections:
               - pl-0
               - pr-0
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/chasingButterflies_after_still.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
