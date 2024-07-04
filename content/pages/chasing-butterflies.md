@@ -134,12 +134,8 @@ sections:
       type: VideoBlock
       title: Title of the video
       url: >-
-        <iframe
-        src="https://www.slideshare.net/slideshow/embed_code/key/8mjA4Bt6kuZI3D?startSlide=1"
-        width="1008" height="567" frameborder="0" scrolling="no"
-        style="border:1px solid #CCC;" allowfullscreen
-        sandbox="allow-same-origin allow-scripts allow-pointer-lock
-        allow-forms"></iframe>
+        <div class="powr-slideshow" id="d810fa62_1720065840"></div><script
+        src="https://www.powr.io/powr.js?platform=netlify"></script>
       autoplay: true
       loop: true
       muted: true
