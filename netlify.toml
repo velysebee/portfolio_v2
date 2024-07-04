@@ -7,6 +7,6 @@
 package = "@netlify/plugin-nextjs"
 
 [[redirects]]
-from = "/images/:file"
+from = "/images/full/:file"
 to = "/.netlify/images?url=images/:file"
 status = 200
