@@ -18,26 +18,6 @@ sections:
 
       Senior thesis film developed 2023 - 2024.
     actions: []
-    media:
-      type: VideoBlock
-      title: Chasing Butterflies Trailer
-      url: 'https://youtu.be/1dqZyKguX4M'
-      autoplay: true
-      loop: true
-      muted: true
-      controls: true
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: none
     colors: bg-light-fg-dark
     styles:
       self:
