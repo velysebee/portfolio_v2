@@ -11,11 +11,9 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: >+
-      test \<div class="powr-slideshow"
-      id="d810fa62\_1720065840">\</div>\<script
-      src="https\://www\.powr.io/powr.js?platform=netlify">\</script>
-
+    text: >
+      `<div class="powr-slideshow" id="d810fa62_1720065840"></div><script
+      src="`[`https://www.powr.io/powr.js?platform=netlify"></script`](https://www.powr.io/powr.js?platform=netlify"></script)`>`
     actions: []
     colors: bg-light-fg-dark
     styles:
