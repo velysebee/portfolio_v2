@@ -133,7 +133,13 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: >-
+        <iframe
+        src="https://www.slideshare.net/slideshow/embed_code/key/8mjA4Bt6kuZI3D?startSlide=1"
+        width="1008" height="567" frameborder="0" scrolling="no"
+        style="border:1px solid #CCC;" allowfullscreen
+        sandbox="allow-same-origin allow-scripts allow-pointer-lock
+        allow-forms"></iframe>
       autoplay: true
       loop: true
       muted: true
