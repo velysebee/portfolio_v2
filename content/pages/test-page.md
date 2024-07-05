@@ -11,9 +11,10 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: >
-      \<div class="powr-slideshow" id="d810fa62\_1720065840">\</div>\<script
-      src="
+    text: |
+      ```
+      <div class="powr-slideshow" id="d810fa62_1720065840"></div><script src="
+      ```
     actions: []
     colors: bg-light-fg-dark
     styles:
