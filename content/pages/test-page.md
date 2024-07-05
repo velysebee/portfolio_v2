@@ -16,11 +16,11 @@ sections:
       src="`[`https://www.powr.io/powr.js?platform=netlify"></script`](https://www.powr.io/powr.js?platform=netlify"></script)`>`
 
 
-      ``
+      \`\`
 
 
       `<iframe width="560" height="315"
-      src=`"https\://www\.powr.io/powr.js?platform=netlify" >
+      src=`"<https://www.powr.io/powr.js?platform=netlify>" >
     actions: []
     colors: bg-light-fg-dark
     styles:
