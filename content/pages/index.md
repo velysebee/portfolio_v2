@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: vanessa buice
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: left
