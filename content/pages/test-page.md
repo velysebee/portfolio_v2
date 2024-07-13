@@ -10,13 +10,6 @@ sections:
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
-        url: /images/hero2.svg
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
         url: /images/wellster-logo.svg
         altText: Wellster logo
         elementId: ''
