@@ -11,10 +11,8 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: >+
-      test \<div class="powr-slideshow"
-      id="d810fa62\_1720065840">\</div>\<script
-      src="https\://www\.powr.io/powr.js?platform=netlify">\</script>
+    text: |+
+
 
     actions: []
     colors: bg-light-fg-dark
@@ -27,6 +25,80 @@ sections:
           - pb-1
       subtitle:
         textAlign: left
+    media:
+      type: ImageBlock
+      url: /images/VanessaBuice_headshot.jpg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Social Media Management
+      color: text-dark
+    subtitle: Increase your reach
+    text: >
+      A service that helps businesses to manage their social media accounts and
+      posts.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      altText: Fun feature preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Business Consulting
+      color: text-dark
+    subtitle: Be in good company
+    text: >
+      A service that provides advice and guidance to startups and small
+      businesses.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/hero3.svg
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
 slug: test-page
 isDraft: false
 seo:
