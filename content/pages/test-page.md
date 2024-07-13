@@ -25,6 +25,14 @@ sections:
           - pb-1
       subtitle:
         textAlign: left
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - type: GenericSection
     title:
       type: TitleBlock
