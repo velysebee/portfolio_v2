@@ -27,7 +27,7 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/VanessaBuice_headshot.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
