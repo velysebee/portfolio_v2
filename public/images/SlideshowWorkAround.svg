@@ -2,9 +2,8 @@
 <foreignObject width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
         <ul>
-            <li>text</li>
+            <div class="powr-slideshow" id="d810fa62_1720065840"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
         </ul>
-        <div class="powr-slideshow" id="d810fa62_1720065840"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
     </div>
 </foreignObject>
 </svg>
