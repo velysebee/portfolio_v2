@@ -11,9 +11,7 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |+
-
-
+    text: '![](/images/slideshowWorkAround.svg)'
     actions: []
     colors: bg-light-fg-dark
     styles:
@@ -27,7 +25,6 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/VanessaBuice_headshot.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
