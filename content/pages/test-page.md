@@ -12,7 +12,7 @@ sections:
           textAlign: left
     subtitle: ''
     text: |
-      ![](/images/SlideshowWorkAround.svg)
+      ![](/images/SlideshowWorkAround1.svg)
     actions: []
     colors: bg-light-fg-dark
     styles:
