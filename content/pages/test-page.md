@@ -11,9 +11,7 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |+
-
-
+    text: ''
     actions: []
     colors: bg-light-fg-dark
     styles:
