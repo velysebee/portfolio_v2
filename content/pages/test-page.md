@@ -11,7 +11,8 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: '![](/images/slideshowWorkAround.svg)'
+    text: |
+      ![](/images/SlideshowWorkAround.svg)
     actions: []
     colors: bg-light-fg-dark
     styles:
