@@ -31,6 +31,7 @@ sections:
       styles:
         self:
           borderRadius: medium
+      url: /images/SlideshowWorkAround.svg
   - type: GenericSection
     title:
       type: TitleBlock
