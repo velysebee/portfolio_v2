@@ -25,7 +25,6 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/SlideshowWorkAround.svg
       altText: Image alt text placeholder
       elementId: ''
       styles:
