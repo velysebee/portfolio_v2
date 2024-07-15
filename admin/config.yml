@@ -1,4 +1,6 @@
 backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
   commit_messages:
     create: Create {{collection}} “{{slug}}”
     update: Update {{collection}} “{{slug}}”
